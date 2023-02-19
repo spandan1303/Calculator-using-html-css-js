@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+}
+.button{
+    padding: 20px;
+    width: 66px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 4px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 278px;
+}
